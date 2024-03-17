@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "team1": "PSV",
+    "team2": "AJAX",
+    "competition": "Johan Cruyjff Schaal",
+    "date": "30/07/2022",
+    "score": "1",
+    "details": [
+      {"label": "Extérieur", "value": "Marqué à la 90+1'"},
+      {"label": "Finition", "value": "Pied Droit"},
+      {"label": "Passeur", "value": "Joey Veerman"},
+      {"label": "Gardien", "value": "Gorter"},
+      {"label": "Saison", "value": "2022-2023"}
+    ]
+  },
+  {
+    "id": 2,
+    "team1": "PSV",
+    "team2": "GA EAGLES",
+    "competition": "Eredivisie",
+    "date": "13/08/2022",
+    "score": "2",
+    "details": [
+      {"label": "Extérieur", "value": "Marqué à la 45+3'"},
+      {"label": "Finition", "value": "Pied Gauche"},
+      {"label": "Passeur", "value": "-"},
+      {"label": "Gardien", "value": "De Lange"},
+      {"label": "Saison", "value": "2022-2023"}
+    ]
+  }
+]
