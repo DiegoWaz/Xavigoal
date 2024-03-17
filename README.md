@@ -35,6 +35,7 @@ const xaviSimonsGoals = [
     { id: 2, team: "PSG", opponent: "Barcelone", competition: "Ligue 1", date: "2022-03-20", details: "Marqué à la 55e minute" },
     // Ajoutez d'autres buts ici...
 ];
+```
 
 -----
 
@@ -69,7 +70,3 @@ If you'd like to contribute to this project, you can:
 1. Fork the repository.
 2. Make your changes.
 3. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
